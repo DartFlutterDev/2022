@@ -2,13 +2,13 @@
 
 FOSDEM is the largest free and open source developers meeting in Europe, with 8000+ participants. It normally takes place in Brussels (Belgium).
 
-FOSDEM 2022 will be online on the 5th and 6th of February. For the first time we will have a Dart/Flutter devroom. The exact date is not known yet. In 20212it will be our opportunity to bring our global community to FOSDEM.
+FOSDEM 2022 will be online on the 5th and 6th of February. For the first time we will have a Dart/Flutter devroom. The exact date is not known yet. In 2022 it will be our opportunity to bring our global community to FOSDEM.
 
 The Dart/Flutter devroom is the place to talk about development with Dart or Flutter.
 
 We hope you will submit a talk or come around at FOSDEM 2022.
 
-##Call for Participation
+## Call for Participation
 
 Submission Deadline: 26.12.2021
 
