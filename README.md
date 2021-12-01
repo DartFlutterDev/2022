@@ -51,31 +51,31 @@ The talks can cover the following subjects:
 The default duration for talks is about 45 minutes including discussion.
 Presentations haveto be pre-recorded and streamed before the event.
 
-##For accepted talks
+## For accepted talks
 
 Once your talk was accepted, we will assign you a deputy to help you to produce the pre-recorded content. The deputy will review the content and ensure it has the required quality. The deputy is also responsible to ensure the content is into the system and ready to broadcast.
 During the stream of your talk, you must be available online for the Q/A session
 
-##Submit a talk
+## Submit a talk
 
 Visit the [FOSDEM 2022 Pentabarf website](https://penta.fosdem.org/submission) (see account creation bellow)
 
 Create an “event” and click on “Show all” in the top right corner to display the full form.
 
 Your submission must include the following information:
--Your contact Email
--The title and subtitle of your talk (please be descriptive, as titles will be listed with ~500 from other projects) select “Geospatial devroom” as the track.
--A short abstract of one paragraph
--A longer description if you wish to do so
--Links to related websites / blogs etc.
+- Your contact Email
+- The title and subtitle of your talk (please be descriptive, as titles will be listed with ~500 from other projects) select “Dart/Flutter devroom” as the track.
+- A short abstract of one paragraph
+- A longer description if you wish to do so
+- Links to related websites / blogs etc.
 
-##Account creation
+## Account creation
 
 If you already have a Pentabarf account, please don’t recreate a new one.
 
 If you forgot your password, reset it. If not, follow the instructions to create an account.
 
-##Contact Us
+## Contact Us
 
-Twitter: @DartFlutterDev or @arjanvaneersel
-Contact Email: arjan at appiness it
+- Twitter: @DartFlutterDev or @arjanvaneersel
+- Contact Email: arjan at appiness it
