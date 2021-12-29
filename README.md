@@ -10,11 +10,11 @@ We hope you will submit a talk or come around at FOSDEM 2022.
 
 ## Call for Participation
 
-Submission Deadline: 26.12.2021
+Submission Deadline: 30.12.2021
 
 We are looking for you to be part of our community's devroom.
 
-Please submit your talk till 26. December 2021.
+Please submit your talk till 30. December 2021.
 
 ## About FOSDEM
 
@@ -35,7 +35,7 @@ For obvious reasons, this year the event will not take place in a physical locat
 
 ## Key dates
 
-Submission deadline: 26 December 2021
+Submission deadline: 30 December 2021
 Announcement of selected talks: 31 December 2021
 Conference dates 5 & 6 February 2022 online
 Dart/Flutter devroom date: TBA
